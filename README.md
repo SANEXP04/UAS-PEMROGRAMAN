@@ -2,17 +2,17 @@
 # UAS
 ## Nama  : Ihsan Hadimulya
 ## NIM   : 312210047
-## Kelas : TI.22.A1
+## Kelas : TI22A1
 ### Membuat Package dan module
 
 ![Screenshot (718)](https://user-images.githubusercontent.com/115686359/210766307-7c0963ba-ea6b-4a3c-8e6c-36b0a571366c.png)
 
-Sudah dibuat Package dan Module seperti diatas
+### Sudah dibuat Package dan Module seperti diatas
 
 ![image](https://user-images.githubusercontent.com/115678077/211916666-73795eaa-6b62-461d-9234-4d3e974475c4.png)
 
 
-```daftar_nilai.py``` Berisi modul untuk :
+### ```daftar_nilai.py``` Berisi modul untuk :
 
 - tambah_data
 
@@ -22,21 +22,21 @@ Sudah dibuat Package dan Module seperti diatas
 
 - cari_data
 
-```view_nilai.py``` Berisi modul untuk :
+### ```view_nilai.py``` Berisi modul untuk :
 
 - cetak_daftar_nilai
 
 - cetak_hasil_pencarian
 
-```input_nilai.py``` Berisi modul untuk :
+### ```input_nilai.py``` Berisi modul untuk :
 
 - input_data (Meminta pengguna untuk memasukkan data)
 
-```main.py``` Berisi Program Utama
+### ```main.py``` Berisi Program Utama
 
 - Memanggil semua menu yang yang ada
 
-1. Kemudian saya telah menyatukan syntax yang nanti akan menghasilkan semua modul dari ```daftar_nilai``` yang diantaranya adalah (tambah data, ubah data, lihat data, hapus data, dan cari data)
+#### 1. Kemudian saya telah menyatukan syntax yang nanti akan menghasilkan semua modul dari ```daftar_nilai``` yang diantaranya adalah (tambah data, ubah data, lihat data, hapus data, dan cari data)
 
 ```
 
